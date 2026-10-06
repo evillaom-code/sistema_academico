@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nombre": "Elkin",
+    "apellido": "Villao",
+    "email": "eu@mane.edu",
+    "carnet": "12345",
+    "notas": {
+      "Matematicas": [
+        15.0,
+        7.0
+      ]
+    },
+    "materias": [
+      "Matematicas"
+    ]
+  }
+]

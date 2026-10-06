@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nombre": "E",
+    "apellido": "VU",
+    "email": "uno@une.edu",
+    "especialidad": "fisica"
+  },
+  {
+    "id": 2,
+    "nombre": "Milis",
+    "apellido": "asi",
+    "email": "una@nome.edu",
+    "especialidad": "Ingles"
+  }
+]
