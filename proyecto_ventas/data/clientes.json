@@ -1,0 +1,18 @@
+[
+  {
+    "id": 2,
+    "nombre": "Elkin Villao",
+    "apellido": "Mn",
+    "email": "ane@une.edi",
+    "telefono": "0981869857",
+    "ciudad": "Sm"
+  },
+  {
+    "id": 3,
+    "nombre": "Eo",
+    "apellido": "Uuu",
+    "email": "ane@jo.edu",
+    "telefono": "0985678457",
+    "ciudad": "Fee"
+  }
+]
